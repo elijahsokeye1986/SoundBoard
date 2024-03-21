@@ -7,7 +7,7 @@ const preRecordedSounds = [
     { name: 'sunflower', file: require('./sunflower.mp3') },
     { name: 'epic', file: require('./epic.mp3') },
     { name: 'epicintro', file: require('./epicintro.mp3') }, // This is my best sound lol
-    { name: 'bang', file: require('./bang.mp3') },
+    { name: 'bang', file: require('./bang.mp3') },  // hello
     
     // Add more sound files here
 ];
